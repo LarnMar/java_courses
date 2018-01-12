@@ -1,4 +1,6 @@
-public class HelloWorld 
+package ru.stqa.prt.sandbox;
+
+public class HelloWorld
 {	
 	public static void main(String[] args)
 	{
